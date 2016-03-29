@@ -1,0 +1,2 @@
+/home/silvia/Desktop/VisualAudioManager2/src
+/home/silvia/Desktop/VisualAudioManager2/src/ana.mp3
